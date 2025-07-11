@@ -4,7 +4,17 @@
 <p align="left">📚 BTech in EEE at National Institute of Technology , Surathkal , India </p>
 <p align="left">👨‍💻 Learning about ML System Design , Natural Language Processing and Computer Vision  </p> 
 
-<div style="clear: both;"></div> 
+<div style="clear: both;"></div> <!-- This clears the float and pushes the next section below -->
+
+---
+
+### 🔧 Languages & Tools:
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL)
+
+---
+
 
 
 
