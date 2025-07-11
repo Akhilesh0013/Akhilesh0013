@@ -1,11 +1,11 @@
 ## Hi there, I'm Akhilesh <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnd0amw5MGdmaXF1MGVmYXRjMzJ4ejdkd2J1N2hrNmhlbGhwazdoMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9B8dqzmFI0yujEjfgg/giphy.gif" width="30px" />
 
-
-<p>
-  <img src="assets/penguin.gif" alt="Penguin" width="100" align="left" style="margin-right: 15px;">
-  <strong>B.Tech in EEE</strong> at National Institute of Technology, Surathkal, India<br>
-  👨‍💻 Learning about <strong>ML system design, NLP, and Computer Vision</strong>
-</p>
+<img align="left" src="assets/pusheencode.gif"/>
+<p align="left">📚 MS CS student at UC San Diego </p>
+<p align="left">💻 Cloud Developer I at Hewlett Packard Enterprise, Bengaluru, India (2022-24) </p>
+<p align="left">📚 B.Tech in Computer Science and Engineering at PES University, Bengaluru, India </p>
+<p align="left">👨‍💻 Learning about cloud-native architecture and distributed systems</p>
+<p align="left">🎸 Self-taught guitarist and Indian classical singer </p>
 
 
 
