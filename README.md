@@ -6,7 +6,7 @@
 
 
 
-
+<div style="clear: both;"></div>  <!-- Add this line -->
 
 
 ---
