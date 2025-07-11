@@ -6,7 +6,8 @@
 <td><img src="assets/penguin.gif" width="250" /></td>
 <td valign="top">
 
-📚 BTech in EEE at National Institute of Technology, Surathkal, India  
+📚 BTech in EEE at National Institute of Technology, Surathkal, India
+<br>
 👨‍💻 Learning about ML System Design, Natural Language Processing, and Computer Vision  
 
 </td>
