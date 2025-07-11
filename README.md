@@ -4,9 +4,9 @@
 <p align="left">📚 BTech in EEE at National Institute of Technology , Surathkal , India </p>
 <p align="left">👨‍💻 Learning about ML System Design , Natural Language Processing and Computer Vision  </p> 
 
+<div style="clear: both;"></div> 
 
 
-<div style="clear: both;"></div>  <!-- Add this line -->
 
 
 ---
