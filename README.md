@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td><img src="assets/penguin.gif" width="250" /></td>
-<td>
+<td valign="top">
 
 📚 BTech in EEE at National Institute of Technology, Surathkal, India  
 👨‍💻 Learning about ML System Design, Natural Language Processing, and Computer Vision  
