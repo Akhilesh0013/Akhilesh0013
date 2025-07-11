@@ -1,13 +1,13 @@
 ## Hi there, I'm Akhilesh <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnd0amw5MGdmaXF1MGVmYXRjMzJ4ejdkd2J1N2hrNmhlbGhwazdoMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9B8dqzmFI0yujEjfgg/giphy.gif" width="30px" />
 
 <p align="left">
-  <img src="assets/penguin.gif" width="120" style="vertical-align: middle; margin-right: 10px;" />
-  <span>
-    📚 <strong>B.Tech in EEE</strong> at National Institute of Technology, Surathkal, India  
-    <br>
-    👨‍💻 Learning about <strong>ML system design, NLP, and Computer Vision</strong>
-  </span>
+  <img src="assets/penguin.gif" width="180" align="left" style="margin-right: 15px;" />
 </p>
+
+<br>
+
+📚 **B.Tech in EEE** at National Institute of Technology, Surathkal, India  
+👨‍💻 Learning about **ML system design, NLP, and Computer Vision**
 
 
 
