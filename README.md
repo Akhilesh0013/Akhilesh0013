@@ -1,4 +1,5 @@
-## Hi there, I'm Akhilesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+## Hi there, I'm Akhilesh <img src="https://giphy.com/stickers/happy-kawaii-cats-9B8dqzmFI0yujEjfgg" width="30px" />
+
 
 🎓 MS CS student at [Your University]  
 💻 Aspiring Data Scientist, interested in NLP and Computer Vision  
