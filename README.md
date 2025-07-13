@@ -6,6 +6,10 @@
 <td><img src="assets/penguin.gif" width="250" /></td>
 <td valign="top">
 
+💻 Data Scientist at Material+
+<br><br>
+💻 Data Analyst at NxtGen Cloud Technologies Private Limited
+<br><br>
 📚 BTech in EEE at National Institute of Technology, Surathkal, India
 <br><br>
 👨‍💻 Learning about ML System Design, Natural Language Processing, and Computer Vision  
