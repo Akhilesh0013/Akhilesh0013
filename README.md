@@ -6,9 +6,9 @@
 <td><img src="assets/penguin.gif" width="250" /></td>
 <td valign="top">
 
-💻 Data Scientist at Material+
+💻 Data Scientist at Material+ , Bangalore , India
 <br><br>
-💻 Data Analyst at NxtGen Cloud Technologies Private Limited
+💻 Data Analyst at NxtGen Cloud Technologies Private Limited, Bangalore , India 
 <br><br>
 📚 BTech in EEE at National Institute of Technology, Surathkal, India
 <br><br>
