@@ -23,13 +23,20 @@
 
 
 
-
 ---
 
 ### 🔧 Languages & Tools:
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+
+
+
+
+
+
+
+
+
+
 
 ---
 
