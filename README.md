@@ -27,14 +27,6 @@
 
 ### 🔧 Languages & Tools:
 
-[![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)](https://www.python.org)
-[![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)](https://isocpp.org/)
-[![R](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg)](https://www.r-project.org/)
-
-
-
-
-
 
 
 <p>
@@ -42,13 +34,15 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  
 
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg " alt="python" width="40" height="40"/>
+  </a>
 
+  <a href= "https://www.r-project.org/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="python" width="40" height="40"/>
+  </a>
   
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40"/>
 </p>
 
 
