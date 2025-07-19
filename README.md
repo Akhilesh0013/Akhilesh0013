@@ -60,8 +60,6 @@
 ---
 
 ### 📘 Projects:
-- 🔍 **[OCR Pipeline](https://github.com/yourusername/ocr-project)** – Damage detection & car-part segmentation using Mask R-CNN  
-- 📊 **[Medical QA RAG System](https://github.com/yourusername/medical-rag)** – Graph-based retriever using Neo4j and Tavily fallback  
 
 ---
 
