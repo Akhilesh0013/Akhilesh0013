@@ -25,7 +25,7 @@
 
 ---
 
-### 🔧 Languages & Tools:
+### 🔧 Languages :
 
 
 
