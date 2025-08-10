@@ -3,26 +3,26 @@
 
 
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align="left" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" />
 
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; 💻 Data Scientist at Material+, Bangalore, India
+- 
+- 🎓 &nbsp; 💻 Data Analyst at NxtGen Cloud Technologies Private Limited, Bangalore, India 
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🌱 &nbsp; 📚 BTech in EEE at National Institute of Technology, Surathkal, India
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
-
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-
+- ✍️ &nbsp; 👨‍💻 Learning about ML System Design, Natural Language Processing, and Computer Vision
+- 
 <br clear="left"/>
 
 
 
 
 
-<img align="left" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" />
+
 
 
 - &nbsp; &nbsp; &nbsp; 💻 Data Scientist at Material+, Bangalore, India 
