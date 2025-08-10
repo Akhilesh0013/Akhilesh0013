@@ -7,10 +7,10 @@
 - &nbsp; 📚 Master's in Data Science and Statistics at UTD, Texas
 
 - &nbsp; 💻 Data Scientist at Material+, Bangalore, India
- 
-- &nbsp; 💻 Data Analyst at NxtGen Cloud Technologies Private Limited, India
 
 - &nbsp; 📚 Bachelor's in Electrical and Electronics Engineering at NIT Surathkal, India
+ 
+- &nbsp; 💻 Data Analyst at NxtGen Cloud Technologies Private Limited, India
 
 - &nbsp; 👨‍💻 Learning about ML System Design, NLP & Computer Vision
 
