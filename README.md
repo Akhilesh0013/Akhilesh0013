@@ -23,27 +23,11 @@
 
 ---
 
-### 🔧 Languages :
-
-
-
-<p>
-
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" 
-      height="40"/>
-  </a>
-
-  <a href= "https://www.r-project.org/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt = "r" width="40" height="40"/>
-  </a>
-  
-</p>
-
+## 💻 Languages
+<a href=""><img alt="" src="https://img.shields.io/badge/Python-FCD12A?style=for-the-badge&logo=python&logoColor=blue" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/GoLang-3AD2FF?style=for-the-badge&logo=go&logoColor=black" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Rust-FF0000?style=for-the-badge&logo=rust&logoColor=white" /></a>
 
 
 
