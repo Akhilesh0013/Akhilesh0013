@@ -8,7 +8,7 @@
 
 - &nbsp; 💻 Data Scientist at Material+, Bangalore, India
 
-- &nbsp; 📚 Bachelor's in Electrical and Electronics Engineering at NIT Surathkal, India
+- &nbsp; 📚 Bachelor's in EEE at NIT Surathkal, India
  
 - &nbsp; 💻 Data Analyst at NxtGen Cloud Technologies Private Limited, India
 
