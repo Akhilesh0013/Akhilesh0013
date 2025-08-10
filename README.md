@@ -1,23 +1,20 @@
 # Hi there, I'm Akhilesh <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnd0amw5MGdmaXF1MGVmYXRjMzJ4ejdkd2J1N2hrNmhlbGhwazdoMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9B8dqzmFI0yujEjfgg/giphy.gif" width="30px" />
 
 
-<table>
-<tr>
-<td>
+<div style="display: flex; align-items: center;">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250" style="margin-right: 20px;" />
 
-</td>
-<td>
+<div>
 
 💻 **Data Scientist at Material+**, Bangalore, India  
 💻 **Data Analyst at NxtGen Cloud Technologies Private Limited**, Bangalore, India  
 📚 **BTech in EEE** at National Institute of Technology, Surathkal, India  
 👨‍💻 Learning about ML System Design, Natural Language Processing, and Computer Vision  
 
-</td>
-</tr>
-</table>
+</div>
+</div>
+
 
 
 
