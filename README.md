@@ -8,7 +8,7 @@
 
 - &nbsp; 💻 Data Scientist at Material+, Bangalore, India
  
-- &nbsp; 💻 Data Analyst at NxtGen Cloud Technologies Private Limited, Bangalore, India 
+- &nbsp; 💻 Data Analyst at NxtGen Cloud Technologies Private Limited, &nbsp; Bangalore, India 
 
 - &nbsp; 📚 BTech in EEE at National Institute of Technology, Surathkal, India
 
