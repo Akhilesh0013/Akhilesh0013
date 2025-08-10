@@ -1,22 +1,15 @@
 # Hi there, I'm Akhilesh <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnd0amw5MGdmaXF1MGVmYXRjMzJ4ejdkd2J1N2hrNmhlbGhwazdoMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9B8dqzmFI0yujEjfgg/giphy.gif" width="30px" />
 
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<img align="left" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450" />
+<p align="left">💻 **Data Scientist at Material+**, Bangalore, India  </p>
+<p align="left">📚 **BTech in EEE** at National Institute of Technology, Surathkal, India </p>
+<p align="left">💻 **Data Analyst at NxtGen Cloud Technologies Private Limited**, Bangalore, India  </p>
+<p align="left">👨‍💻 Learning about ML System Design, Natural Language Processing, and Computer Vision  </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450" />
 
-<div>
 
-💻 **Data Scientist at Material+**, Bangalore, India  
-<br><br>
-💻 **Data Analyst at NxtGen Cloud Technologies Private Limited**, Bangalore, India  
-<br><br>
-📚 **BTech in EEE** at National Institute of Technology, Surathkal, India  
-<br><br>
-👨‍💻 Learning about ML System Design, Natural Language Processing, and Computer Vision  
 
-</div>
-</div>
 
 
 
