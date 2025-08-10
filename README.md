@@ -3,17 +3,10 @@
 
 <img align='left' src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450">
 
-
-
-💻 Data Scientist at Material+ , Bangalore , India
-<br><br>
-💻 Data Analyst at NxtGen Cloud Technologies Private Limited, Bangalore , India 
-<br><br>
-📚 BTech in EEE at National Institute of Technology, Surathkal, India
-<br><br>
-👨‍💻 Learning about ML System Design, Natural Language Processing, and Computer Vision  
-<img width="468" height="230" alt="image" src="https://github.com/user-attachments/assets/92b30fb6-e37e-4921-82ab-2901b07efdf5" />
-
+💻 **Data Scientist at Material+**, Bangalore, India  
+💻 **Data Analyst at NxtGen Cloud Technologies Private Limited**, Bangalore, India  
+📚 **BTech in EEE** at National Institute of Technology, Surathkal, India  
+👨‍💻 Learning about ML System Design, Natural Language Processing, and Computer Vision
 
 
 
