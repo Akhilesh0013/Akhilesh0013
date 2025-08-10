@@ -2,7 +2,12 @@
 
 
 <img align="left" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" />
-<p align="left">💻 Data Scientist at Material+, Bangalore, India  </p>
+
+&nbsp; 💻 Data Scientist at Material+, Bangalore, India 
+
+
+
+<p align="left"> </p>
 <p align="left">📚 BTech in EEE at National Institute of Technology, Surathkal, India </p>
 <p align="left">💻 Data Analyst at NxtGen Cloud Technologies Private Limited, Bangalore, India  </p>
 <p align="left">👨‍💻 Learning about ML System Design, Natural Language Processing, and Computer Vision  </p>
