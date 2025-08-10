@@ -6,14 +6,7 @@
 <p align="left">📚 **BTech in EEE** at National Institute of Technology, Surathkal, India </p>
 <p align="left">💻 **Data Analyst at NxtGen Cloud Technologies Private Limited**, Bangalore, India  </p>
 <p align="left">👨‍💻 Learning about ML System Design, Natural Language Processing, and Computer Vision  </p>
-
-
-
-
-
-
-
----
+<br clear="left"/>
 
 
 
