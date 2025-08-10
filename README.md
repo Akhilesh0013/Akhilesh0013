@@ -4,13 +4,17 @@
 <img align="left" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" />
 
 
+- &nbsp; 📚 Master's in Data Science and Statistics at UTD, Texas
+
 - &nbsp; 💻 Data Scientist at Material+, Bangalore, India
  
 - &nbsp; 💻 Data Analyst at NxtGen Cloud Technologies Private Limited, India
 
-- &nbsp; 📚 BTech in EEE at National Institute of Technology, Surathkal, India
+- &nbsp; 📚 Bachelor's in Electrical and Electronics Engineering at NIT Surathkal, India
 
 - &nbsp; 👨‍💻 Learning about ML System Design, NLP & Computer Vision
+
+- &nbsp; 🏋️‍♂️ Chasing PRs inside and outside the gym!
 
   
 <br clear="left"/>
