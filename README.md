@@ -24,10 +24,11 @@
 ---
 
 ## 💻 Languages
-<a href=""><img alt="" src="https://img.shields.io/badge/Python-FCD12A?style=for-the-badge&logo=python&logoColor=blue" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
-<a href=""><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+<a href=""><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998" /></a>
+<a href=""><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
+<a href=""><img alt="SQL" src="https://img.shields.io/badge/SQL-FF6F00?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
 <a href=""><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a>
+
 
 
 
