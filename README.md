@@ -44,16 +44,16 @@ Methods Combined with MLPNN, Book Chapter accepted for publication at CRC Press,
 
 ---
 
-## Frameworks & Tools 
+## 🧰 Frameworks & Tools 
 
+
+### Data Science & Machine Learning
 <!-- Python Data Stack -->
 <a href=""><img alt="NumPy" src="https://img.shields.io/badge/NumPy-E0234E?style=for-the-badge&logo=numpy&logoColor=white" /></a>
 <a href=""><img alt="Pandas" src="https://img.shields.io/badge/Pandas-FF4B4B?style=for-the-badge&logo=pandas&logoColor=white" /></a>
 <a href=""><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-3498DB?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
 <a href=""><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-8E44AD?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
 <a href=""><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
-
-<!-- LLM + AI Frameworks -->
 <a href=""><img alt="LangChain" src="https://img.shields.io/badge/LangChain-00B140?style=for-the-badge&logo=chainlink&logoColor=white" /></a>
 <a href=""><img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-FFB300?style=for-the-badge&logo=llama&logoColor=black" /></a>
 <a href=""><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
@@ -61,6 +61,7 @@ Methods Combined with MLPNN, Book Chapter accepted for publication at CRC Press,
 <a href=""><img alt="NLTK" src="https://img.shields.io/badge/NLTK-2ECC71?style=for-the-badge&logoColor=white" /></a>
 <a href=""><img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white" /></a>
 
+### ☁️ Cloud Platforms 
 <!-- Cloud Platforms -->
 <a href=""><img alt="Microsoft Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
 <a href=""><img alt="Amazon AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
