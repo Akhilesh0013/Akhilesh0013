@@ -31,19 +31,26 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 ---
 
-### 📘 Projects:
+## 📘 Projects:
+
+- ☀️ Solar Irradiation Forecast Enhancement Using Clustering-based CNN-BiLSTM-Attention
+Hybrid Architecture with PSO, Journal Paper published at International Journal of Ambient Energy, 2024 [link](https://doi.org/10.1080/01430750.2024.2414924)
+
+- 📊 Enhancing Solar Irradiance Forecasting: A Comprehensive Exploration of Various Clustering
+Methods Combined with MLPNN, Book Chapter accepted for publication at CRC Press, Taylor & Francis . You can find the Acceptance and reviews [here](https://drive.google.com/drive/folders/1fyXVFQcQHphnEpiAWq2mV13r-H4oxlDF?usp=drive_link)
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
