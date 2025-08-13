@@ -1,3 +1,4 @@
+
 # Hi there, I'm Akhilesh <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnd0amw5MGdmaXF1MGVmYXRjMzJ4ejdkd2J1N2hrNmhlbGhwazdoMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9B8dqzmFI0yujEjfgg/giphy.gif" width="30px" />
 
 
@@ -75,8 +76,13 @@ Methods Combined with MLPNN, Book Chapter accepted for publication at CRC Press,
 <a href=""><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a>
 
 
-
-
+### 🚀 Deployment & MLOps
+<!-- Deployment -->
+<a href=""><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
+<a href=""><img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=numpy&logoColor=white" /></a>
+<a href=""><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+<a href=""><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
+<a href=""><img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
 
 
 ### ☁️ Cloud Platforms 
