@@ -91,13 +91,10 @@ Methods Combined with MLPNN, Book Chapter accepted for publication at CRC Press,
 <a href=""><img alt="Amazon AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
 
 
-
-
-
-
-
-
-
+### 🛠️ Development & Collaboration
+<!-- Development & Collaboration -->
+<a href=""><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href=""><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
 
 
 ---
