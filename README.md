@@ -61,6 +61,18 @@ Methods Combined with MLPNN, Book Chapter accepted for publication at CRC Press,
 <a href=""><img alt="NLTK" src="https://img.shields.io/badge/NLTK-2ECC71?style=for-the-badge&logoColor=white" /></a>
 <a href=""><img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white" /></a>
 
+### 🗄️ Databases
+<!-- Databases -->
+<a href=""><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+<a href=""><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+<a href=""><img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white" /></a>
+<a href=""><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /></a> 
+
+
+
+
+
+
 ### ☁️ Cloud Platforms 
 <!-- Cloud Platforms -->
 <a href=""><img alt="Microsoft Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
