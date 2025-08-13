@@ -82,7 +82,7 @@ Methods Combined with MLPNN, Book Chapter accepted for publication at CRC Press,
 <a href=""><img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=numpy&logoColor=white" /></a>
 <a href=""><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
 <a href=""><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
-<a href=""><img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
+<a href=""><img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-4B4B4B?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
 
 
 ### ☁️ Cloud Platforms 
