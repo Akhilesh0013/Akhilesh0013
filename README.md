@@ -42,6 +42,11 @@ Hybrid Architecture with PSO, Journal Paper published at International Journal o
 - 📊 Enhancing Solar Irradiance Forecasting: A Comprehensive Exploration of Various Clustering
 Methods Combined with MLPNN, Book Chapter accepted for publication at CRC Press, Taylor & Francis . You can find the Acceptance and reviews [here](https://drive.google.com/drive/folders/1fyXVFQcQHphnEpiAWq2mV13r-H4oxlDF?usp=drive_link)
 
+- 🤖 Intellifind - A Self-Correcting Knowledge Retrieval
+  Designed a context aware RAG system using Llama-Index for orchestration, integrating relevance check and a web search fallback using LinkUp
+  in cases of irrelevant context. Check it out [here](https://github.com/Akhilesh0013/Intellifind) !
+
+
 
 ---
 
